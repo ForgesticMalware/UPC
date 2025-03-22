@@ -1,0 +1,10 @@
+# Tutorial on how to use UPC/Usable Program Compressor
+# How to create variables:
+# its simple. Variables in UPC are the same as Python *because it was made in python*
+# 
+# How to create basic text:
+# Using the nice text() code you can create simple text in the editor. All you need to do is type text() and inside the () for text "do this" and for variables type them without the quotation marks
+#
+# How to create a basic list:
+# Using the simple list() code. To do this type list() and in the () type the "list name" "item 1" or 1, make sure to add a , for all 3 items
+#
